@@ -20,6 +20,8 @@ public class AppliRV {
 		
 		new VueAppli();
 
+		
+		//On test GitHub incroyable
 	}
 
 }
